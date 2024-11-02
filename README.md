@@ -33,6 +33,7 @@ for i in range(n):
     print(f"data ke-{i+1} => {a}") 
 print("selesai")
 ````
+![Screenshot 2024-11-02 225441](https://github.com/user-attachments/assets/86c77a02-0ec5-48c6-bf21-7aeec2b4c86f)
 
 
 #penjelasan
@@ -54,7 +55,8 @@ angka yang di input tidak boleh lebih dari 0,5
 
 Hasil dari code tersebut
 
-![Screenshot 2024-11-02 072017](https://github.com/user-attachments/assets/fa6c6f74-a965-4422-a9d7-4882344b2696)
+![Screenshot 2024-11-02 225512](https://github.com/user-attachments/assets/0643dda1-67f2-4f0c-b851-30fdad58c7eb)
+
 
 bisa dilihat bahwa tidak ada angka yang lebih dari 0,5
 
@@ -80,6 +82,8 @@ for bulan, presentase in enumerate (laba_perbulan, start=1):
     print(f"laba bulan ke-{bulan}: {laba:,.0f}")
 print(f"\nTotal keuntungan selama 8 bulan: {keuntungan:,.0f}")
 ````
+
+![Screenshot 2024-11-02 225811](https://github.com/user-attachments/assets/3f5dc74f-0cd3-4b4f-9b8d-ce7a07a3203e)
 
 
 #penjelasan
@@ -122,7 +126,8 @@ Output: Mencetak laba per bulan dan total keuntungan setelah 8 bulan.
 
 Hasil dari kode tersebut
 
-![Screenshot 2024-11-02 074940](https://github.com/user-attachments/assets/5b347d5b-339a-46ec-a720-d1523d841962)
+![Screenshot 2024-11-02 225834](https://github.com/user-attachments/assets/fff51218-73a4-4204-9b61-8cb31c4576f4)
+
 
 Total laba yang di dapat dari ke 8 bulan tersebut ada 20 juta
 
@@ -163,6 +168,7 @@ while True:
 else:
     print("Terima kasih, have a good days:) ")
 ````
+![image](https://github.com/user-attachments/assets/feb13e0d-dbb1-4146-88f3-1a9830a3f2c0)
 
 #Penjelasan
 
@@ -179,6 +185,7 @@ Jika pengguna memilih untuk keluar, program akan mengucapkan terima kasih dan 
 
 hasil dari kode tersebut
 
-![Screenshot 2024-11-02 090354](https://github.com/user-attachments/assets/ca3820c1-1614-4a16-a9b3-bcf573cb8102)
+![image](https://github.com/user-attachments/assets/bd96fba7-c014-441a-909c-43b3b6c331ec)
+
 
 
